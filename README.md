@@ -1,9 +1,9 @@
 # 👋 Merhaba, ben Selosaral!
 
 ## 🚀 Hakkımda
-- 🔭 Şu anda **yazılım öğreniyorum**
+- 🔭 Şu anda yazılım öğreniyorum
 - 🌱 HTML, CSS, Python ile ilgileniyorum
-- 💬 Bana **GitHub** hakkında soru sorabilirsin
+- 💬 Bana GitHub hakkında soru sorabilirsin
 - ⚡ İlginç gerçek: Bugün profilimi oluşturdum!
 
 ## 📊 GitHub İstatistiklerim
@@ -23,4 +23,4 @@
 
 ---
 
-⭐ **Bu profil README'sini beğendiysen yıldız vermeyi unutma!**
+⭐ Bu profil README'sini beğendiysen yıldız vermeyi unutma!
